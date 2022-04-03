@@ -19,7 +19,7 @@ a:hover {
 }
 
 .black{
-    color: black;
+    color: black!important;
 }
 
 #page-loading-blocs-notifaction {
@@ -741,6 +741,7 @@ h4 {
 
 .white {
     color: #FFFFFF!important;
+    opacity: 1!important;
 }
 
 .portfolio-thumb {
